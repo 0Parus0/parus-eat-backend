@@ -1,4 +1,4 @@
-# Enterprise-Level Food Ordering App
+# Parus-Eat.com
 The app allows users to add or remove restaurants, place orders, track order status, and make payments securely using Stripe and Stripe webhooks. This project demonstrates my ability to build complex, scalable applications with robust payment integration and real-time data handling
 
 ## Demo
